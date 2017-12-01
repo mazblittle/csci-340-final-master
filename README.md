@@ -28,10 +28,15 @@ Head 0 has 5 health!
 (^ov3vo^) hydra head #3 | ========== ]
 
 (^ov4vo^) hydra head #4 | ========== ]
+
   (|/|/|/|/|/|)================>>
+  
  ||  ||  ||  ||
+ 
  ww  ww  ww  ww
+ 
 5 heads still alive!
+
 Head 0 snaps its fearsome jaws at the adventurer!
 
 
