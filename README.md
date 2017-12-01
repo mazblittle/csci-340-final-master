@@ -24,8 +24,12 @@ Head 0 has 5 health!
  ww  ww  ww  ww
 5 heads still alive!
 Head 0 snaps its fearsome jaws at the adventurer!
+
+
 BREAD's health: [ <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 -x -x -x -x -x -x -x -x ]
-Head 1 snaps its fearsome jaws at the adventurer!
+Head 1 snaps its fearsome jaws at the adventurer!\n
+
+
 BREAD's health: [ <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 -x -x -x -x -x -x -x -x -x ]
 Head 2 snaps its fearsome jaws at the adventurer!
 BREAD's health: [ <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 -x -x -x -x -x -x -x -x -x -x ]
