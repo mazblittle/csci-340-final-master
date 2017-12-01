@@ -11,13 +11,22 @@ Attack the hydra by typing out the head number you want to attack. Killing heads
 Example snippet from output:
 
 You may attack: 0 1 2 3 4 with your sword!
+
 Which head to attack?
  0
+ 
 Head 0 has 5 health!
+
+
 (^ov0vo^) hydra head #0 | =====..... ]
+
+
 (^ov1vo^) hydra head #1 | ========== ]
+
 (^ov2vo^) hydra head #2 | ========== ]
+
 (^ov3vo^) hydra head #3 | ========== ]
+
 (^ov4vo^) hydra head #4 | ========== ]
   (|/|/|/|/|/|)================>>
  ||  ||  ||  ||
@@ -27,13 +36,18 @@ Head 0 snaps its fearsome jaws at the adventurer!
 
 
 BREAD's health: [ <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 -x -x -x -x -x -x -x -x ]
-Head 1 snaps its fearsome jaws at the adventurer!\n
-
+Head 1 snaps its fearsome jaws at the adventurer!
 
 BREAD's health: [ <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 -x -x -x -x -x -x -x -x -x ]
+
 Head 2 snaps its fearsome jaws at the adventurer!
+
 BREAD's health: [ <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 -x -x -x -x -x -x -x -x -x -x ]
+
 Head 3 snaps its fearsome jaws at the adventurer!
+
 BREAD's health: [ <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 -x -x -x -x -x -x -x -x -x -x -x ]
+
 Head 4 snaps its fearsome jaws at the adventurer!
+
 BREAD's health: [ <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 -x -x -x -x -x -x -x -x -x -x -x -x ]
